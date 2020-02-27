@@ -1,5 +1,0 @@
-C:\Users\VGD PC 9\Documents\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms.Windows\obj\Debug\netcoreapp3.1\JhonCedricRomano.DSA.Midterms.Windows.csprojAssemblyReference.cache
-C:\Users\VGD PC 9\Documents\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms.Windows\obj\Debug\netcoreapp3.1\MainWindow.g.cs
-C:\Users\VGD PC 9\Documents\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms.Windows\obj\Debug\netcoreapp3.1\App.g.cs
-C:\Users\VGD PC 9\Documents\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms.Windows\obj\Debug\netcoreapp3.1\JhonCedricRomano.DSA.Midterms.Windows_MarkupCompile.cache
-C:\Users\VGD PC 9\Documents\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms\JhonCedricRomano.DSA.Midterms.Windows\obj\Debug\netcoreapp3.1\JhonCedricRomano.DSA.Midterms.Windows_MarkupCompile.lref
